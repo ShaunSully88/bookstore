@@ -22,7 +22,7 @@ type Book {
     authors:[String]
     description: String
     title: String
-    : img
+    image: img
     link: link
 }
 type Auth {
