@@ -69,3 +69,5 @@ Mutation: {
     },
 
 }
+
+module.exports = resolvers;
